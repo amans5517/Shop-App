@@ -1,6 +1,6 @@
 # ShopApp
 
-A new Flutter project.
+App created by flutter and dart as programming language. This app uses Firebase as web server that uses REST API and have loose coupling between different users and have individual authentication with interactive User interface.
 
 ## Getting Started
 
